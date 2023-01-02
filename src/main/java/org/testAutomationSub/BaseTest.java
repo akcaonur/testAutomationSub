@@ -1,10 +1,10 @@
-package org.example;
+package org.testAutomationSub;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class BaseTest
 {
     public static void main( String[] args )
     {
