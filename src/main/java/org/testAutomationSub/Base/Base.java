@@ -1,13 +1,10 @@
-package org.testAutomationSub;
+package org.testAutomationSub.Base;
 
-/**
- * Hello world!
- *
- */
-public class BaseTest
-{
+public class Base {
+
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
     }
+
 }
